@@ -1,6 +1,8 @@
 # Prototipo-BitTorrentBased
 
-Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga Ciência da Computação
+Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga 
+
+Ciência da Computação
 
 Protótipo de transferencia de arquivos baseada em BitTorrent.
 
